@@ -1,0 +1,3 @@
+/root/anaconda3
+/root/anaconda3/envs/iris
+/root/anaconda3/envs/secp256k1
